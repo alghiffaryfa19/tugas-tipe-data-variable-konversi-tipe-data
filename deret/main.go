@@ -2,10 +2,6 @@ package main
 
 import "fmt"
 
-func ganjil() {
-
-}
-
 func main() {
 	var batas int
 	var i int
