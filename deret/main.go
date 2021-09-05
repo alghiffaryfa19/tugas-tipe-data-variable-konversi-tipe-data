@@ -22,7 +22,7 @@ func main() {
 			a := 1
 			for a <= batas*2 {
 				if a % 2 == 1 {
-					fmt.Print(a)
+					fmt.Println(a)
 				}
 				a = a + 1
 			}
@@ -30,7 +30,7 @@ func main() {
 			a := 1
 			for a <= batas*2 {
 				if a % 2 == 0 {
-					fmt.Print(a)
+					fmt.Println(a)
 				}
 				a = a + 1
 			}
